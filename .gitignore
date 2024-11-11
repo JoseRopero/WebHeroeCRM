@@ -167,3 +167,7 @@ cython_debug/
 /ios/Pods/
 .flutter-plugins
 .flutter-plugins-dependencies
+
+# Docker
+docker/*.env
+docker/db_data/
